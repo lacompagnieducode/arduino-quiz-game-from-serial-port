@@ -1,3 +1,5 @@
+![TeamQuiz](Images/TeamQuiz.png)
+
 # Jeu de quiz Arduino depuis le port série
 
 Le but de ce projet et de permettre, grâce à l'utilisation des branches,
@@ -15,7 +17,7 @@ Le premier qui arrive à répondre juste aux trois questions d'affilée à gagne
 
 ---
 
-## Etape 01
+## ![TeamQuiz](Images/quiz-pop-art-x50px.png) Etape 01
 
 Depuis la barre de menu, ouvrez :
 
@@ -38,7 +40,7 @@ et tester l'affichage de chaque valeur avec un pas de temps de 1 sec.
 
 ---
 
-## Etape 02
+## ![TeamQuiz](Images/quiz-pop-art-x50px.png) Etape 02
 
 Depuis la barre de menu, ouvrez :
 
